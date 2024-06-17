@@ -8,3 +8,7 @@ def show():
     print("Age is:",Age)
     print("Std is:",Std)
     print("Contact is:",Contact)
+
+name = "Priya"
+def set(name):
+    print("Name is:",name)
