@@ -8,3 +8,4 @@ a = "World"
 b = "I am 19 year old"
 c = 9*8
 d = 123
+e = "A"
