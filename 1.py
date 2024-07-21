@@ -15,3 +15,4 @@ def set(name):
 
 a = "Hello"
 b = "My name is Divya"
+c = 5+7
