@@ -14,3 +14,4 @@ def set(name):
     print("Name is:",name)
 
 a = "Hello"
+b = "My name is Divya"
