@@ -7,3 +7,4 @@ def even_odd(n):
 a = "World"
 b = "I am 19 year old"
 c = 9*8
+d = 123
