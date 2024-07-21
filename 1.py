@@ -12,3 +12,5 @@ def show():
 name = "Priya"
 def set(name):
     print("Name is:",name)
+
+a = "Hello"
